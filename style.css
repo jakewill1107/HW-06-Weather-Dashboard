@@ -23,3 +23,26 @@ header {
     text-align: center;
     padding: 12px;
 }
+
+aside {
+    width: 30%;
+    background-color: var(--soft-blue);
+    padding: 8px;
+    float: left;
+}
+
+aside label {
+    font-size: 18px;
+}
+
+#city-name {
+    width: 70%;
+    margin-top: 4px;
+    padding: 8px;
+    
+}
+
+#search-button:focus {
+    outline:none;
+}
+
