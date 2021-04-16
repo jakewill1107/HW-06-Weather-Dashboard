@@ -1,0 +1,25 @@
+:root {
+    --dark-blue:#12232E ;
+    --bright-blue: #007CC7;
+    --soft-blue: #4DA8DA;
+    --dark-grey: #203647;
+    --light-grey: #EEFBFB;
+  }
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    font-family: "Courier New", Courier, monospace;
+}
+
+header {
+    background-color: var(--dark-blue);
+    color: var(--light-grey);
+    text-align: center;
+    padding: 12px;
+}
