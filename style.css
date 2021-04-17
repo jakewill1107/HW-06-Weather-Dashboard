@@ -17,7 +17,7 @@ header {
 
 aside {
   width: 30%;
-  background-color: #7395AE;
+  background-color: #7395ae;
   padding: 8px;
   float: left;
 }
@@ -34,7 +34,7 @@ aside label {
 
 #search-button {
   padding: 10px;
-  background-color: #557A95;
+  background-color: #557a95;
   color: white;
   border: solid 2px #92c7ff;
   border-radius: 4px;
@@ -116,7 +116,7 @@ main {
   display: inline-block;
   margin-right: 12px;
   margin-bottom: 12px;
-  background-color: #B1A296;
+  background-color: #b1a296;
   color: white;
   border-radius: 8px;
   padding: 12px 24px 12px 8px;
